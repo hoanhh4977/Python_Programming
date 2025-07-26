@@ -1,0 +1,5 @@
+a = int (input ("Nhap vao gia tri a: "))
+b = int (input ("Nhap vao gia tri b: "))
+print(f"{a} // {b} = {a//b}")
+print(f"{a} % {b} = {a%b}")
+print(f"{a} / {b} = {a/b}")
