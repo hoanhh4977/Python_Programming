@@ -1,0 +1,47 @@
+[
+    {
+        "Cửa hàng":"A",
+        "Sản phẩm":"Điện thoại",
+        "Doanh thu":120
+    },
+    {
+        "Cửa hàng":"A",
+        "Sản phẩm":"Laptop",
+        "Doanh thu":90
+    },
+    {
+        "Cửa hàng":"A",
+        "Sản phẩm":"Máy tính bảng",
+        "Doanh thu":60
+    },
+    {
+        "Cửa hàng":"B",
+        "Sản phẩm":"Điện thoại",
+        "Doanh thu":150
+    },
+    {
+        "Cửa hàng":"B",
+        "Sản phẩm":"Laptop",
+        "Doanh thu":110
+    },
+    {
+        "Cửa hàng":"B",
+        "Sản phẩm":"Máy tính bảng",
+        "Doanh thu":70
+    },
+    {
+        "Cửa hàng":"C",
+        "Sản phẩm":"Điện thoại",
+        "Doanh thu":100
+    },
+    {
+        "Cửa hàng":"C",
+        "Sản phẩm":"Laptop",
+        "Doanh thu":80
+    },
+    {
+        "Cửa hàng":"C",
+        "Sản phẩm":"Máy tính bảng",
+        "Doanh thu":55
+    }
+]
